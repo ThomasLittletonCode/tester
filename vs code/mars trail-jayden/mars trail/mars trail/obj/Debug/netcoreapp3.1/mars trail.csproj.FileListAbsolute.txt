@@ -1,0 +1,27 @@
+C:\Users\Thomas\source\repos\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\source\repos\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.AssemblyInfoInputs.cache
+C:\Users\Thomas\source\repos\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.AssemblyInfo.cs
+C:\Users\Thomas\source\repos\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\mars trail\mars trail\bin\Debug\netcoreapp3.1\mars trail.exe
+C:\Users\Thomas\source\repos\mars trail\mars trail\bin\Debug\netcoreapp3.1\mars trail.deps.json
+C:\Users\Thomas\source\repos\mars trail\mars trail\bin\Debug\netcoreapp3.1\mars trail.runtimeconfig.json
+C:\Users\Thomas\source\repos\mars trail\mars trail\bin\Debug\netcoreapp3.1\mars trail.runtimeconfig.dev.json
+C:\Users\Thomas\source\repos\mars trail\mars trail\bin\Debug\netcoreapp3.1\mars trail.dll
+C:\Users\Thomas\source\repos\mars trail\mars trail\bin\Debug\netcoreapp3.1\mars trail.pdb
+C:\Users\Thomas\source\repos\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.dll
+C:\Users\Thomas\source\repos\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.pdb
+C:\Users\Thomas\source\repos\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.genruntimeconfig.cache
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\bin\Debug\netcoreapp3.1\mars trail.exe
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\bin\Debug\netcoreapp3.1\mars trail.deps.json
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\bin\Debug\netcoreapp3.1\mars trail.runtimeconfig.json
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\bin\Debug\netcoreapp3.1\mars trail.runtimeconfig.dev.json
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\bin\Debug\netcoreapp3.1\mars trail.dll
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\bin\Debug\netcoreapp3.1\mars trail.pdb
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.csproj.AssemblyReference.cache
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.GeneratedMSBuildEditorConfig.editorconfig
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.AssemblyInfoInputs.cache
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.AssemblyInfo.cs
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.csproj.CoreCompileInputs.cache
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.dll
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.pdb
+E:\server\code\grade 11\visual studio code\mars trail-jayden\mars trail\mars trail\obj\Debug\netcoreapp3.1\mars trail.genruntimeconfig.cache
