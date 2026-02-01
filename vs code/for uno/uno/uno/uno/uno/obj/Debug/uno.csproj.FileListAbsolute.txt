@@ -1,0 +1,77 @@
+C:\Users\mronyy\source\repos\uno\uno\bin\Debug\uno.exe.config
+C:\Users\mronyy\source\repos\uno\uno\bin\Debug\uno.exe
+C:\Users\mronyy\source\repos\uno\uno\bin\Debug\uno.pdb
+C:\Users\mronyy\source\repos\uno\uno\obj\Debug\uno.csproj.AssemblyReference.cache
+C:\Users\mronyy\source\repos\uno\uno\obj\Debug\uno.csproj.SuggestedBindingRedirects.cache
+C:\Users\mronyy\source\repos\uno\uno\obj\Debug\uno.Form1.resources
+C:\Users\mronyy\source\repos\uno\uno\obj\Debug\uno.Properties.Resources.resources
+C:\Users\mronyy\source\repos\uno\uno\obj\Debug\uno.csproj.GenerateResource.cache
+C:\Users\mronyy\source\repos\uno\uno\obj\Debug\uno.csproj.CoreCompileInputs.cache
+C:\Users\mronyy\source\repos\uno\uno\obj\Debug\uno.exe
+C:\Users\mronyy\source\repos\uno\uno\obj\Debug\uno.pdb
+C:\Users\mronyy\Downloads\uno\uno\uno\obj\Debug\uno.csproj.AssemblyReference.cache
+C:\Users\mronyy\Downloads\uno\uno\uno\obj\Debug\uno.csproj.SuggestedBindingRedirects.cache
+C:\Users\mronyy\Downloads\uno\uno\uno\obj\Debug\uno.Form1.resources
+C:\Users\mronyy\Downloads\uno\uno\uno\obj\Debug\uno.Properties.Resources.resources
+C:\Users\mronyy\Downloads\uno\uno\uno\obj\Debug\uno.csproj.GenerateResource.cache
+C:\Users\mronyy\Downloads\uno\uno\uno\obj\Debug\uno.csproj.CoreCompileInputs.cache
+C:\Users\mronyy\Downloads\uno\uno\uno\obj\Debug\uno.exe
+C:\Users\mronyy\Downloads\uno\uno\uno\obj\Debug\uno.pdb
+C:\Users\mronyy\Downloads\uno\uno\uno\bin\Debug\uno.exe.config
+C:\Users\mronyy\Downloads\uno\uno\uno\bin\Debug\uno.exe
+C:\Users\mronyy\Downloads\uno\uno\uno\bin\Debug\uno.pdb
+C:\Users\mronyy\Downloads\uno (1)\uno\uno\uno\bin\Debug\uno.exe.config
+C:\Users\mronyy\Downloads\uno (1)\uno\uno\uno\bin\Debug\uno.exe
+C:\Users\mronyy\Downloads\uno (1)\uno\uno\uno\bin\Debug\uno.pdb
+C:\Users\mronyy\Downloads\uno (1)\uno\uno\uno\obj\Debug\uno.csproj.AssemblyReference.cache
+C:\Users\mronyy\Downloads\uno (1)\uno\uno\uno\obj\Debug\uno.csproj.SuggestedBindingRedirects.cache
+C:\Users\mronyy\Downloads\uno (1)\uno\uno\uno\obj\Debug\uno.Form1.resources
+C:\Users\mronyy\Downloads\uno (1)\uno\uno\uno\obj\Debug\uno.Properties.Resources.resources
+C:\Users\mronyy\Downloads\uno (1)\uno\uno\uno\obj\Debug\uno.csproj.GenerateResource.cache
+C:\Users\mronyy\Downloads\uno (1)\uno\uno\uno\obj\Debug\uno.csproj.CoreCompileInputs.cache
+C:\Users\mronyy\Downloads\uno (1)\uno\uno\uno\obj\Debug\uno.exe
+C:\Users\mronyy\Downloads\uno (1)\uno\uno\uno\obj\Debug\uno.pdb
+C:\Users\mronyy\Downloads\uno (2)\uno (1)\uno\uno\uno\obj\Debug\uno.csproj.AssemblyReference.cache
+C:\Users\mronyy\Downloads\uno (2)\uno (1)\uno\uno\uno\obj\Debug\uno.csproj.SuggestedBindingRedirects.cache
+C:\Users\mronyy\Downloads\uno (2)\uno (1)\uno\uno\uno\obj\Debug\uno.Form1.resources
+C:\Users\mronyy\Downloads\uno (2)\uno (1)\uno\uno\uno\obj\Debug\uno.Properties.Resources.resources
+C:\Users\mronyy\Downloads\uno (2)\uno (1)\uno\uno\uno\obj\Debug\uno.csproj.GenerateResource.cache
+C:\Users\mronyy\Downloads\uno (2)\uno (1)\uno\uno\uno\obj\Debug\uno.csproj.CoreCompileInputs.cache
+C:\Users\mronyy\Downloads\uno (2)\uno (1)\uno\uno\uno\obj\Debug\uno.exe
+C:\Users\mronyy\Downloads\uno (2)\uno (1)\uno\uno\uno\obj\Debug\uno.pdb
+C:\Users\mronyy\Downloads\uno (2)\uno (1)\uno\uno\uno\bin\Debug\uno.exe.config
+C:\Users\mronyy\Downloads\uno (2)\uno (1)\uno\uno\uno\bin\Debug\uno.exe
+C:\Users\mronyy\Downloads\uno (2)\uno (1)\uno\uno\uno\bin\Debug\uno.pdb
+C:\Users\Thomas\Downloads\uno (1)\uno\uno\bin\Debug\uno.exe.config
+C:\Users\Thomas\Downloads\uno (1)\uno\uno\bin\Debug\uno.exe
+C:\Users\Thomas\Downloads\uno (1)\uno\uno\bin\Debug\uno.pdb
+C:\Users\Thomas\Downloads\uno (1)\uno\uno\obj\Debug\uno.csproj.AssemblyReference.cache
+C:\Users\Thomas\Downloads\uno (1)\uno\uno\obj\Debug\uno.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thomas\Downloads\uno (1)\uno\uno\obj\Debug\uno.Form1.resources
+C:\Users\Thomas\Downloads\uno (1)\uno\uno\obj\Debug\uno.Properties.Resources.resources
+C:\Users\Thomas\Downloads\uno (1)\uno\uno\obj\Debug\uno.csproj.GenerateResource.cache
+C:\Users\Thomas\Downloads\uno (1)\uno\uno\obj\Debug\uno.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Downloads\uno (1)\uno\uno\obj\Debug\uno.exe
+C:\Users\Thomas\Downloads\uno (1)\uno\uno\obj\Debug\uno.pdb
+C:\Users\Thomas\Downloads\uno\uno\uno\uno\bin\Debug\uno.exe.config
+C:\Users\Thomas\Downloads\uno\uno\uno\uno\bin\Debug\uno.exe
+C:\Users\Thomas\Downloads\uno\uno\uno\uno\bin\Debug\uno.pdb
+C:\Users\Thomas\Downloads\uno\uno\uno\uno\obj\Debug\uno.csproj.AssemblyReference.cache
+C:\Users\Thomas\Downloads\uno\uno\uno\uno\obj\Debug\uno.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thomas\Downloads\uno\uno\uno\uno\obj\Debug\uno.Form1.resources
+C:\Users\Thomas\Downloads\uno\uno\uno\uno\obj\Debug\uno.Properties.Resources.resources
+C:\Users\Thomas\Downloads\uno\uno\uno\uno\obj\Debug\uno.csproj.GenerateResource.cache
+C:\Users\Thomas\Downloads\uno\uno\uno\uno\obj\Debug\uno.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Downloads\uno\uno\uno\uno\obj\Debug\uno.exe
+C:\Users\Thomas\Downloads\uno\uno\uno\uno\obj\Debug\uno.pdb
+F:\for uno\uno\uno\uno\uno\bin\Debug\uno.exe.config
+F:\for uno\uno\uno\uno\uno\bin\Debug\uno.exe
+F:\for uno\uno\uno\uno\uno\bin\Debug\uno.pdb
+F:\for uno\uno\uno\uno\uno\obj\Debug\uno.csproj.AssemblyReference.cache
+F:\for uno\uno\uno\uno\uno\obj\Debug\uno.csproj.SuggestedBindingRedirects.cache
+F:\for uno\uno\uno\uno\uno\obj\Debug\uno.Form1.resources
+F:\for uno\uno\uno\uno\uno\obj\Debug\uno.Properties.Resources.resources
+F:\for uno\uno\uno\uno\uno\obj\Debug\uno.csproj.GenerateResource.cache
+F:\for uno\uno\uno\uno\uno\obj\Debug\uno.csproj.CoreCompileInputs.cache
+F:\for uno\uno\uno\uno\uno\obj\Debug\uno.exe
+F:\for uno\uno\uno\uno\uno\obj\Debug\uno.pdb

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DF47BAE3-3012-406B-9810-BDA07AA2702B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>uno</RootNamespace>
+    <AssemblyName>uno</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Card.cs" />
+    <Compile Include="Deck.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="blueeght.png" />
+    <EmbeddedResource Include="bluefive.png" />
+    <EmbeddedResource Include="bluefour.png" />
+    <EmbeddedResource Include="bluenine.png" />
+    <EmbeddedResource Include="blueone.png" />
+    <EmbeddedResource Include="blueseven.png" />
+    <EmbeddedResource Include="bluesix.png" />
+    <EmbeddedResource Include="bluethree.png" />
+    <EmbeddedResource Include="bluetwo.png" />
+    <EmbeddedResource Include="greeneight.png" />
+    <EmbeddedResource Include="greenfive.png" />
+    <EmbeddedResource Include="greenfour.png" />
+    <EmbeddedResource Include="greennine.png" />
+    <EmbeddedResource Include="greenone.png" />
+    <EmbeddedResource Include="greenseven.png" />
+    <EmbeddedResource Include="greensix.png" />
+    <EmbeddedResource Include="greenthree.png" />
+    <EmbeddedResource Include="greentwo.png" />
+    <Content Include="NewFile1.txt" />
+    <None Include="purple" />
+    <None Include="green" />
+    <None Include="red" />
+    <None Include="blue" />
+    <None Include="unoback-2" />
+    <EmbeddedResource Include="purpleeight.png" />
+    <EmbeddedResource Include="purplefive.png" />
+    <EmbeddedResource Include="purplefour.png" />
+    <EmbeddedResource Include="purplenine.png" />
+    <EmbeddedResource Include="purpleone.png" />
+    <EmbeddedResource Include="purpleseven.png" />
+    <EmbeddedResource Include="purplesix.png" />
+    <EmbeddedResource Include="purplethree.png" />
+    <EmbeddedResource Include="purpletwo.png" />
+    <EmbeddedResource Include="redeight.png" />
+    <EmbeddedResource Include="redfive.png" />
+    <EmbeddedResource Include="redfour.png" />
+    <EmbeddedResource Include="rednine.png" />
+    <EmbeddedResource Include="redone.png" />
+    <EmbeddedResource Include="redseven.png" />
+    <EmbeddedResource Include="redsix.png" />
+    <EmbeddedResource Include="redthree.png" />
+    <EmbeddedResource Include="redtwo.png" />
+    <EmbeddedResource Include="table.png" />
+    <EmbeddedResource Include="unoback.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
